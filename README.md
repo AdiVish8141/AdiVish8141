@@ -48,3 +48,11 @@
 ---
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
 
+---
+
+### 🐍 My Contributions Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdiVish8141/AdiVish8141/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
