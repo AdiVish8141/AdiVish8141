@@ -36,13 +36,15 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdiVish8141&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdiVish8141&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiVish8141&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdiVish8141&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
