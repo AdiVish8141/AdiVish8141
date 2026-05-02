@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 - 🎓 I'm currently studying **Computer Engineering**.
 - 🌱 I’m currently exploring **Machine Learning, AI, and building real-world Python applications!**
@@ -53,6 +53,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiVish8141/AdiVish8141/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdiVish8141/AdiVish8141/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
